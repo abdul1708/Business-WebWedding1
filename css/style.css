@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6, figure {
     .fh5co-nav {
       padding: 20px 0; } }
   .fh5co-nav #fh5co-logo {
-    font-size: 40px;
+    font-size: 50px;
     margin: 0;
     padding: 0;
     line-height: 40px;
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6, figure {
       list-style: none;
       display: inline; }
       .fh5co-nav ul li a {
-        font-size: 14px;
+        font-size: 18px;
         padding: 30px 10px;
         text-transform: uppercase;
         color: rgba(255, 255, 255, 0.5);
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6, figure {
     top: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.5); }
+    background: url(../images//assets/wedding.jpg) center no-repeat; }
   .fh5co-cover > .fh5co-container {
     position: relative;
     z-index: 10; }
