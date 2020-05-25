@@ -1,5 +1,6 @@
 $font-primary: 'Work Sans', Arial, sans-serif;
 $font-secondary: 'Sacramento', Arial, serif;
+$font-tree:'Caveat', Arial, serif;
 
 
 // Overrides
@@ -187,7 +188,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		margin: 0;
 		padding: 0;
 		line-height: 40px;
-		font-family: $font-secondary;
+		font-family: $font-tree;
 	}
 	a {
 		padding: 5px 10px;
@@ -877,7 +878,7 @@ form {
 			margin-bottom: 0px;
 			font-size: 100px;
 			line-height: 1.5;
-			font-family: $font-secondary;
+			font-family: $font-tree;
 			@media screen and (max-width: $screen-sm) {
 				font-size: 40px;
 			}
@@ -1057,7 +1058,7 @@ form {
 		width: 100%;
 	}
 	h3{
-		font-family: $font-secondary;
+		font-family: $font-tree;
 		color: $brand-primary;
 		font-size: 30px;
 	}
@@ -1167,7 +1168,7 @@ form {
 		line-height: 1.5;
 		font-weight: bold;
 		color: $brand-primary;
-		font-family: $font-secondary;
+		font-family: $font-tree;
 		@media screen and (max-width: $screen-sm){
 			font-size: 40px;
 		}
