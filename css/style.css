@@ -164,6 +164,9 @@ h1, h2, h3, h4, h5, h6, figure {
                 color: #000; }
         .fh5co-nav ul li.has-dropdown:hover a, .fh5co-nav ul li.has-dropdown:focus a {
           color: #fff; }
+        .fh5co-nav ul li.has-dropdown:hover .dropdown, .fh5co-nav ul li.has-dropdown:focus .dropdown {
+          visibility: visible;
+          opacity: 1; }
       .fh5co-nav ul li.btn-cta a {
         color: #00a5e2; }
         .fh5co-nav ul li.btn-cta a span {
