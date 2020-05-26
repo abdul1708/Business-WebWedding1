@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		padding: 20px 0;
 	}
 	#fh5co-logo {
-		font-size: 50px;
+		font-size: 45px;
 		margin: 0;
 		padding: 0;
 		line-height: 40px;
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			list-style: none;
 			display: inline;
 			a {
-				font-size: 18px;
+				font-size: 16px;
 				padding: 30px 10px;
 				text-transform: uppercase;
 				color: rgba(255,255,255,.5);
@@ -508,7 +508,11 @@ h1, h2, h3, h4, h5, h6, figure {
 			margin-bottom: 30px;
 		}
 	}
-
+	.position{
+		top:100px;
+		color: rgba(255, 255, 255, 0.8);
+		font-size: larger;
+	}
 }
 
 
